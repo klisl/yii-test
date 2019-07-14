@@ -1,3 +1,3 @@
-Demo: [http://test.klisl.com](http://test.klisl.com)
+Demo: [http://194.9.70.112:50](http://194.9.70.112:50)
 
-Admin panel: [http://admin-test.klisl.com](http://admin-test.klisl.com)
+Admin panel: [http://194.9.70.112:51](http://194.9.70.112:51)
